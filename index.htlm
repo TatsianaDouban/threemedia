@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>week6</title>
+    <link rel="stylesheet" href="stylescss/slyles.css">
+</head>
+
+<body>
+    <div class="grid">
+        <header>[Шапка страницы]</header>
+        <main class="main">
+            <div class="spirit">[Основная часть]</div>
+            <div>[Еще 1]</div>
+            <div>[Еще 2]</div>
+            <div>[Еще 3]</div>
+        </main>
+        <asides class="aside">[Боковая часть]</asides>
+        <footer class="footer">
+            <div class="classf one">[Секция футера 1]</div>
+            <div class="classf two">[Секция футера 2]</div>
+            <div class="classf three">[Секция футера 3]</div>
+            <div class="classf for">[Секция футера 4]</div>
+        </footer>
+    </div>
+
+
+
+
+</body>
+
+</html>
