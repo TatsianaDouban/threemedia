@@ -7,13 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>week6</title>
     <link rel="stylesheet" href="stylecss/style.css">
+    <link rel="stylesheet" href="stylecss/media.css">
+
 </head>
 
 <body>
     <div class="grid">
         <header>[Шапка страницы]</header>
         <main class="main">
-            <div class="spirit">[Основная часть]</div>
+            <div>[Основная часть]</div>
             <div>[Еще 1]</div>
             <div>[Еще 2]</div>
             <div>[Еще 3]</div>
